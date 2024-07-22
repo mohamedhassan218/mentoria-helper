@@ -78,6 +78,7 @@ To use this pipeline, follow these steps:
     - Get your free **Google** API key from [here](https://ai.google.dev/gemini-api/docs/api-key)
     - Get your free **Serper** API key from [here](https://serper.dev/api-key)
 
+You can also find the final documentation pdf in the repo, all content is generated using this pipeline, isn't this amazing?!
 
 
 ## Showcase
